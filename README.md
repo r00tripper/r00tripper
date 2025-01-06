@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- TryHackMe Badge Script -->
+<p align="center">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2973899" style='border:none;'></iframe>
+</p>
 
-<!--
-**r00tripper/r00tripper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Programmer | Security Researcher | Tech Enthusiast</h1>
+  
+## About Me:
+- 💻 **Currently working on:** Tryhackme / Hack The Box
+- 📚 **Currently learning:** Penetration testing
+- ❔ **Ask me about:** 3D Printing
+- 🐧 **r00t@ripper:~$** [whoami](https://www.google.com/search?q=intext%3Ar00tripper)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,cloudflare,vscode,bash,py,html,css,js,lua" />
+  </a>
+</p>
+
+### ⚗️ Projects 
+
+ - ✅ **Nothing Yet:** Working On My First Project
+
+### 👍 Interests 
+
+- 🚀 **Science**
+- ⚙️ **Machinery**
+- 🤖 **AI** `(artificial intelligence)`
+- 🛡 **Security**
+
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r00tripper&theme=github_dark&show_icons=true" />
+</p>
