@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://github.com/r00tripper/r00tripper/blob/main/media/pfp750.png">
-</p>
-
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG" /></a>
 </p>
 
