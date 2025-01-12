@@ -1,6 +1,5 @@
-<!-- TryHackMe Badge Script -->
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/r00tripper.png" alt="Your Image Badge" />
+<img src="https://github.com/r00tripper/r00tripper/blob/main/media/pfp2048.png">
 </p>
 
 <p align="center">
